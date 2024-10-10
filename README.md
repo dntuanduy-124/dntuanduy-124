@@ -4,7 +4,7 @@ I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity graduate 
 
 [![Linkedin Badge](https://img.shields.io/badge/-tuanduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)](https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)
 [![Instagram Badge](https://img.shields.io/badge/-tuanduy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_duy.tuan24/)](https://www.instagram.com/_duy.tuan24/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@duytuan2720)](https://www.youtube.com/@duytuan2720)
+[![Youtube Badge](https://img.shields.io/badge/-tuanduy-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@duytuan2720)](https://www.youtube.com/@duytuan2720)
 [![Gmail Badge](https://img.shields.io/badge/-tuanduy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuanduy1411@gmail.com)](mailto:tuanduy1411@gmail.com)
 
 ## ⚡ Technologies
