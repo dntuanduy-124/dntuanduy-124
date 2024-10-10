@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity study from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity graduate from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tuanduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)](https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)
 [![Instagram Badge](https://img.shields.io/badge/-tuanduy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_duy.tuan24/)](https://www.instagram.com/_duy.tuan24/)
@@ -28,8 +28,7 @@ I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity study fro
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true) -->
 
