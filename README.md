@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity graduate from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Do Ngoc Tuan Duy, people call me David, a recent cybersecurity graduate from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tuanduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)](https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)
 [![Instagram Badge](https://img.shields.io/badge/-tuanduy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_duy.tuan24/)](https://www.instagram.com/_duy.tuan24/)
