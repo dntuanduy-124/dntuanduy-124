@@ -1,16 +1,15 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity graduate from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Do Ngoc Tuan Duy, people call me David, a recent cybersecurity graduate from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tuanduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)](https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)
-[![Instagram Badge](https://img.shields.io/badge/-tuanduy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_duy.tuan24/)](https://www.instagram.com/_duy.tuan24/)
+[![Instagram Badge](https://img.shields.io/badge/-dntuanduy124-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_duy.tuan24/)](https://www.instagram.com/_duy.tuan24/)
 [![Youtube Badge](https://img.shields.io/badge/-tuanduy-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@duytuan2720)](https://www.youtube.com/@duytuan2720)
-[![Gmail Badge](https://img.shields.io/badge/-tuanduy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuanduy1411@gmail.com)](mailto:tuanduy1411@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tuanduy1411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuanduy1411@gmail.com)](mailto:tuanduy1411@gmail.com)
 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -20,9 +19,7 @@ I am Do Ngoc Tuan Duy, people call me Tuan Duy, a recent cybersecurity graduate 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
