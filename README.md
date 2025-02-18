@@ -2,7 +2,7 @@
 
 I am Do Ngoc Tuan Duy, people call me David, a recent cybersecurity study from [ Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-tuanduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)](https://www.linkedin.com/in/tu%E1%BA%A5n-duy-006990247/)
+[![Linkedin Badge](https://img.shields.io/badge/-tuanduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tdcyber1110/)](https://www.linkedin.com/in/tdcyber1110/)
 [![Instagram Badge](https://img.shields.io/badge/-dntuanduy124-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_duy.tuan24/)](https://www.instagram.com/_duy.tuan24/)
 [![Youtube Badge](https://img.shields.io/badge/-tuanduy-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@duytuan2720)](https://www.youtube.com/@duytuan2720)
 [![Gmail Badge](https://img.shields.io/badge/-tuanduy1411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuanduy1411@gmail.com)](mailto:tuanduy1411@gmail.com)
